@@ -20,7 +20,7 @@ Entry form: Users can log an entry once per day. Users will be presented with th
 
 View entries: Users can view entries day-by-day and edit or delete any past log. Edited entries will display original value beneath along with the “edited on” date.
 
-Data visualization: Users can display a graph charting a limited number of metrics over a length of time. Users can add pins for events to help identify correlations.
+Data visualization (Nice to have): Users can display a graph charting a limited number of metrics over a length of time. Users can add pins for events to help identify correlations.
 
 ### Technologies
 Java
